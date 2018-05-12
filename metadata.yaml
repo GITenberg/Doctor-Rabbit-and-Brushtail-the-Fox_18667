@@ -1,0 +1,35 @@
+_repo: Doctor-Rabbit-and-Brushtail-the-Fox_18667
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Winter, Milo
+    alias: Winter, Milo Kendall
+    birthdate: 1888
+    deathdate: 1956
+    gutenberg_agent_id: '8180'
+    url: http://www.gutenberg.org/2009/agents/8180
+    wikipedia: http://en.wikipedia.org/wiki/Milo_Winter
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hinkle, Thomas C. (Thomas Clark)
+    birthdate: 1876
+    deathdate: 1949
+    gutenberg_agent_id: '8179'
+    url: http://www.gutenberg.org/2009/agents/8179
+description: ''
+gutenberg_issued: '2006-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+title: Doctor Rabbit and Brushtail the Fox
+url: http://www.gutenberg.org/ebooks/18667
